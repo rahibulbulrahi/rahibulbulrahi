@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23929292&size=50&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+my+GitHub+Profile!;I'm+Rahi+Bulbul.;I'm+a+Developer.;I'm+a+Designer.)](https://git.io/typing-svg)
 
-## <img src="https://raw.githubusercontent.com/rahibulbulrahi/rawdata/main/waving_hand.gif?token=AP2IHOVCMF6NQUKFVJA6Z5DBMJWJC" style="max-width: 100%;" width="27" height="27"> About Me
+## <img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/24/000000/external-user-interface-kiranshastry-lineal-kiranshastry.png"/> About Me
 Hello! I’m <b>Rahi Bulbul Rahi.</b> I'm a programmer from Bangladesh. I am now doing my internship and will graduate with a bachelor's degree in Computer 
 Science and Software Engineering from <a href="https://www.aiub.edu/" rel="nofollow">American International University-Bangladesh</a> in a few months. Every day, I learn new things and confront new obstacles, 
 and I aim to give it my all in order to deliver the finest outcomes possible. I consider myself to be a lifelong learner who likes experimenting with new 
@@ -9,7 +9,7 @@ I'm open to a variety of ideas that might help me gain perspective.
 <br>
 <br>
 <br>
-## <img src="https://raw.githubusercontent.com/rahibulbulrahi/rawdata/main/thumbs_up.gif?token=AP2IHOW7MLXGZV6UNH6GC6DBMJ2ZC" style="max-width: 100%;" width="27" height="27"> Here is some of my skills
+## <img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/24/000000/external-skills-management-kiranshastry-lineal-kiranshastry-6.png"/> Here is some of my skills
 <code> <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> </code>
 <code> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> </code>
 <code> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> </code>
@@ -21,12 +21,12 @@ I'm open to a variety of ideas that might help me gain perspective.
 <br>
 <br>
 <br>
-## <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/20/000000/external-coding-interface-kiranshastry-lineal-color-kiranshastry.png"/> Most used Language
+## <img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/24/000000/external-coding-interface-kiranshastry-lineal-kiranshastry.png"/> Most used Language
 <a href="https://github.com/rahibulbulrahi/github-readme-stats"><img alt="Rahi Bulbul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahibulbulrahi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 <br>
 <br>
-## <img src="https://raw.githubusercontent.com/rahibulbulrahi/rawdata/main/fire.gif?token=AP2IHOVKBCOVBRR7SA3NOCLBMJ6R2"> My Streak
+## <img src="https://img.icons8.com/emoji/24/000000/fire.png"/> My Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <br>
 <br>
