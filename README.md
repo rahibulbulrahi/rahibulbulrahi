@@ -36,7 +36,7 @@ I'm open to a variety of ideas that might help me gain perspective.
 <br>
 <br>
 <br>
-## <img src="https://img.icons8.com/external-wanicon-two-tone-wanicon/100/000000/external-social-media-live-and-streaming-wanicon-two-tone-wanicon.png"/> Feel free to connect with me. I am also available at:
+## <img src="https://img.icons8.com/external-wanicon-two-tone-wanicon/24/000000/external-social-media-live-and-streaming-wanicon-two-tone-wanicon.png"/> Feel free to connect with me. I am also available at:
 <a href="mailto:rahibulbulrahi@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
 <a href="mailto:rahibulbulrahi@outlook.com"> <img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/>
 <a href="https://twitter.com/rahibulbulrahi"> <img src="https://img.icons8.com/color/48/000000/twitter.png"/>
