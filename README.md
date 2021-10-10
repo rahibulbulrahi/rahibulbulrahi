@@ -10,13 +10,13 @@ I'm open to a variety of ideas that might help me gain perspective.
 <br>
 <br>
 ## <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/20/000000/external-skills-management-kiranshastry-lineal-color-kiranshastry-6.png"/> Here is some of my skills
-<code> <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> </code>
-<code> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> </code>
-<code> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> </code>
-<code> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a></code>
-<code> <a href="https://www.w3schools.com/cs/index.php"> <img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png"/> </a> </code>
-<code> <a href="https://www.w3schools.com/CPP/default.asp"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </code>
-<code> <a href="https://www.w3schools.com/js/default.asp"> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a> </code>
+<code> <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> </code> &nbsp;&nbsp;
+<code> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> </code>  &nbsp;&nbsp;
+<code> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> </code> &nbsp;&nbsp;
+<code> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a></code> &nbsp;&nbsp;
+<code> <a href="https://www.w3schools.com/cs/index.php"> <img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png"/> </a> </code> &nbsp;&nbsp;
+<code> <a href="https://www.w3schools.com/CPP/default.asp"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </code> &nbsp;&nbsp;
+<code> <a href="https://www.w3schools.com/js/default.asp"> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a> </code> &nbsp;&nbsp;
 <code> <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> </code>
 <br>
 <br>
@@ -37,17 +37,17 @@ I'm open to a variety of ideas that might help me gain perspective.
 <br>
 <br>
 ## <img src="https://img.icons8.com/external-wanicon-two-tone-wanicon/24/000000/external-social-media-live-and-streaming-wanicon-two-tone-wanicon.png"/> Feel free to connect with me. I am also available at:
-<a href="mailto:rahibulbulrahi@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
-<a href="mailto:rahibulbulrahi@outlook.com"> <img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/>
-<a href="https://twitter.com/rahibulbulrahi"> <img src="https://img.icons8.com/color/48/000000/twitter.png"/>
-<a href="https://www.facebook.com/rahibulbulrahi/"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>
-<a href="https://www.linkedin.com/in/rahi-bulbul-rahi-8114b3221/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-<a href="https://github.com/rahibulbulrahi"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
+<a href="mailto:rahibulbulrahi@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/> &nbsp;&nbsp;
+<a href="mailto:rahibulbulrahi@outlook.com"> <img src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png"/> &nbsp;&nbsp;
+<a href="https://twitter.com/rahibulbulrahi"> <img src="https://img.icons8.com/color/48/000000/twitter.png"/> &nbsp;&nbsp;
+<a href="https://www.facebook.com/rahibulbulrahi/"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rahi-bulbul-rahi-8114b3221/"> <img src="https://img.icons8.com/color/48/00000/linkedin.png"/> &nbsp;&nbsp;
+<a href="https://github.com/rahibulbulrahi"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> &nbsp;&nbsp;
 <br>
 <br>
 <br>
 ## <img src="https://img.icons8.com/doodle/24/000000/follow--v1.png"/> Follwer and Viwer
-<a href="https://github.com/rahibulbulrahi/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=rahibulbulrahi"></a>
+<a href="https://github.com/rahibulbulrahi/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=rahibulbulrahi"></a> &nbsp;&nbsp; &nbsp;&nbsp;
 <a href="https://github.com/rahibulbulrahi?tab=followers"><img src="https://img.shields.io/github/followers/rahibulbulrahi?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
