@@ -27,7 +27,7 @@ I'm open to a variety of ideas that might help me gain perspective.
 <br>
 <br>
 ## <img src="https://img.icons8.com/emoji/24/000000/fire.png"/> My Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahibulbulrahi&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahibulbulrahi&theme=highcontrast)](https://github.com/rahibulbulrahi/github-readme-streak-stats)
 <br>
 <br>
 <br>
