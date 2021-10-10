@@ -9,7 +9,7 @@ I'm open to a variety of ideas that might help me gain perspective.
 <br>
 <br>
 <br>
-## <<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/24/000000/external-skills-management-kiranshastry-lineal-color-kiranshastry-6.png"/> Here is some of my skills
+## <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/20/000000/external-skills-management-kiranshastry-lineal-color-kiranshastry-6.png"/> Here is some of my skills
 <code> <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> </code>
 <code> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> </code>
 <code> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> </code>
@@ -21,7 +21,7 @@ I'm open to a variety of ideas that might help me gain perspective.
 <br>
 <br>
 <br>
-## <img src="https://img.icons8.com/color/24/000000/code.png"/> Most used Language
+## <img src="https://img.icons8.com/color/20/000000/code.png"/> Most used Language
 <a href="https://github.com/rahibulbulrahi/github-readme-stats"><img alt="Rahi Bulbul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahibulbulrahi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 <br>
