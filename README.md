@@ -18,6 +18,7 @@ I'm open to a variety of ideas that might help me gain perspective.
 <code> <a href="https://www.w3schools.com/CPP/default.asp"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </code> &nbsp;&nbsp;
 <code> <a href="https://www.w3schools.com/js/default.asp"> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a> </code> &nbsp;&nbsp;
 <code> <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> </code>
+<code> <a href="https://www.python.org/"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> </code>
 <br>
 <br>
 <br>
